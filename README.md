@@ -6,6 +6,6 @@ In this website, they are three sections, the about me section which states abou
 ## Technologies Used
  the languages and tools you used to create this website are HTML and CSS.
 ## Support and contact details
- if you run into any issues or have questions, please feel free to contact me on my email mmuhawenimana920@daviscollege.com
+ if you run into any issues or have questions, please feel free to contact me on my email mireille1999@gmail.com
 ### License
 Copyright (c) 2020 **Mireille Muhawenimana**
